@@ -5,7 +5,6 @@ Month       : February 2024 <br/>
 Start Date  : 16 Feb 24 <br/>
 End Date    : 29 Feb 24 <br/>
 
-  
 
 ## 16 Feb 24
 -   Flutter Setup
@@ -16,7 +15,7 @@ End Date    : 29 Feb 24 <br/>
 ![Dokumentasi](images/16-2.png)
 
 ## 19 Feb 24
-Membahas it project management secara lanjut
+Membahas it project management secara lanjut<br>
 Main project saya Frontend saja
 -   Device Responsive
 -   Fix bug
@@ -60,3 +59,11 @@ Python Server Driven UI
 -   1 Record 1 Object
 -   Bulk sync lihat key fields yang sama
 -   Annotate buat field baru, outer ref sub query
+
+## 29 Feb 24
+- Membetulkan desktop responsive saat value main sectionnya berisi section juga
+- Revisi desktop json fieldnya behaviornya mirip dengan section biasa
+- Append location flag json di desktop masukin ke section_extra
+- Membuat dokumentasi frontend widget documentation section device responsive 
+- Resolve Conflict, karena code hari selasa ditahan(belum saya push)
+![Dokumentasi](images/29.jpg)
