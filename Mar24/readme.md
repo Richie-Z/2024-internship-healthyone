@@ -44,3 +44,16 @@ ada 2 border_type:
 1. Styling Chat Bot page
 2. Menyelesasikan page Chat Bot (tunggu backend selesai buat API baru befungsi full)
 ![Dokumentasi](images/7.jpeg)
+
+## 8 Mar 24
+1. Membuat function untuk memanipulasi string yang memiliki sitasi ([1]) agar penanda sitasinya memiliki style yang berbeda
+2. Memperbaiki bug duplicate image di chat_bot
+3. Mengintegrasi Chat Bot yang kubuat dengan anak anak backend dan AI
+![Dokumentasi](images/8.jpeg)
+
+## 12 Mar 24
+1. Membuat tombol copy di chatbot
+2. Menambah disclaimer di chatbot
+3. Membetulkan bug jika response bot ada imagesnya (masalah tipe data)
+4. Membuat fitur baru untuk time_field yaitu fitur deactivatable based on switch button
+![Dokumentasi](images/9.jpeg)
