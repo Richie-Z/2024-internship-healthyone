@@ -1,0 +1,27 @@
+March 2024 - Internship daily progress
+
+Name 		: Immanuel Richie De Harjo Zakaria
+Position	: Front-End Developer (Flutter)
+Month 		: March 2024
+Start Date: : 1 Mar 24
+End Date	: 29 Mar 24
+
+8 Mar 24
+1. Membuat function untuk memanipulasi string yang memiliki sitasi ([1]) agar penanda sitasinya memiliki style yang berbeda
+2. Memperbaiki bug duplicate image di chat_bot
+3. Mengintegrasi Chat Bot yang kubuat dengan anak anak backend dan AI
+
+12 Mar 24
+1. Membuat tombol copy di chatbot
+2. Menambah disclaimer di chatbot
+3. Membetulkan bug jika response bot ada imagesnya (masalah tipe data)
+4. Membuat fitur baru untuk time_field yaitu fitur deactivatable based on switch button
+5. Menambah label di button switch 
+
+13 Mar 24
+1. Fix performance issues saat banyak gambar terload di chat bot
+2. Ux enhancement scroll saat sudan panjang chatbotnya
+
+14 Mar 24
+1. Menambahkan fitur di section parser agar si section bisa dinamis. kemarin cuma bisa list of widgets/list of sections sekarang bisa dua duanya bersamaan
+2. Menambah key image_type pada section_extra. berguna untuk membuat sih section memiliki bg image
