@@ -1,9 +1,9 @@
 March 2024 - Internship daily progress
 
-Name 		  : Immanuel Richie De Harjo Zakaria
+Name 		: Immanuel Richie De Harjo Zakaria
 Position	: Front-End Developer (Flutter)
 Month 		: March 2024
-Start Date: 1 Mar 24
+Start Date: : 1 Mar 24
 End Date	: 29 Mar 24
 
 1 Mar 24
