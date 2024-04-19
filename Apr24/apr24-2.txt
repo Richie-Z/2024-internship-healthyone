@@ -29,6 +29,7 @@ Week 2
 Week 3
 16 Apr 24
 1. Fix table edit button tidak bisa menerima/menghandle api_parameter. (handlernya itu nanti kalau ada api_redirect_route) yaudah buat query paramsnya
+2. Ikut meeting programmer
 
 17 Apr 24
 1. Tracing kenapa image di chat-bot kadang kadang tidak load (ketemunya masalah CORS).
