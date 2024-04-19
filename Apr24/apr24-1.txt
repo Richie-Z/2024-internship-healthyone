@@ -1,0 +1,27 @@
+Aprli 2024 - Internship daily progress
+
+Name 		: Immanuel Richie De Harjo Zakaria
+Position	: Front-End Developer (Flutter)
+Month 		: March 2024
+Start Date	: 1 Apr 24
+End Date	: 30 Mar 24
+
+1 Apr 24
+1. Melanjutkan konsep device responsive handle card dan tab-content
+2. Mengimplementasikannya di konsep sebelumnya width & height
+3. Mencoba 10+ layar apakah device responsive sudah bagus
+
+2 Apr 24
+1. Membuat konsep device responsive handler buat form (text-field)
+2. Mengimplementasikan konsep tersebut di konsep width 
+3. Presentasi ke Pak Brian konsep responsive yang sudah di buat. Pak Brian sudah senang dengan konsep yang sudah dibuat.
+
+3 Apr 24
+1. Melanjutkan implementasian konsep device responsive form (button field-space between 
+2. Merapikan kodingan ( clean-code, implementasi class, enum, flag)
+
+4 Apr 24
+1. Fix bug button di device responsive yang seharusnya sectionnya dia ikutin/constraint dengan atasnya(kalau form) 
+
+5 Apr 24
+1. Mencoba implementasi max card/tab content height nanti di wrap sama scroll

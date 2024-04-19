@@ -1,0 +1,28 @@
+March 2024 - Internship daily progress
+
+Name 		: Immanuel Richie De Harjo Zakaria
+Position	: Front-End Developer (Flutter)
+Month 		: March 2024
+Start Date: 	: 1 Mar 24
+End Date	: 29 Mar 24
+
+22 Mar 24
+1. Membuat Sketch kasar untuk device responsive by width di excalidraw
+2. Mengimplementasi konsep device responsive by width di Content Wrapper(Mainin widget yang sudah kerender)
+
+25 Mar 24
+1. Membuat Sketch kasar untuk device responsive by height di excalidraw
+2. Memindahkan fungsi device responsive by width yang sebelumnya di content wrapper ke section parser
+3. mengimplementasi konsep untuk device responsive by height di section parser
+
+26 Mar 24
+1. Fix logic error di device responsive by width (complexity, error while, infinity loop)
+2. Mencoba konsep fit Content untuk device responsive
+
+27 Mar 24
+1. Membuat fitur requestan dari anak chat bot agar sitasi bisa tampilin website dan citation
+2. Membuat gambaran konsep device responsive di excalidraw
+
+28 Mar 24
+1. UX Enhancement chat bot text field add max lines and min lines
+2. Membuat konsep device responsive v1.1(Can handle card and tab-content)

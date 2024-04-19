@@ -1,0 +1,30 @@
+March 2024 - Internship daily progress
+
+Name 		: Immanuel Richie De Harjo Zakaria
+Position	: Front-End Developer (Flutter)
+Month 		: March 2024
+Start Date: : 1 Mar 24
+End Date	: 29 Mar 24
+
+15 Mar 24
+1. Styling TextField agar bisa menampilkan leading icon, is_editable adjust aja agar bisa pake png bukan icon
+2. Styling ButtonText agar bisa menampilkan leading icon
+3. Tambah beberapa dokumentasi widget frontend (section image_type, image standard, icon standard, text button, text field)
+4. Membetulkan bug dynamic section saat SectionPage dulu baru Content (Karena kalau SectionPage dulu akan nyangkut)
+
+18 Mar 24
+1. Multiple pinpoint map in map preview widget
+
+19 Mar 24
+1. Scallable leading icon in text field
+2. Add more icons assets
+
+20 Mar 24
+1. Mempresentasiin device responsive ke pak Brian
+2. Fixing leading icon text field (masih nyangkut ke coba cobaku)
+3. Chatbot tambah handler untuk user_id dan mengubah urlnya ke staging (menggunakan local stroage)
+
+21 Mar 24
+1. Mencoba device responsive by calculating width and height (coba coba di SectionParser dan PageWrapper)
+2. Fixing responsivness of chat bot (Kelupaan nyamaain width antara sitasi boxnya dan sitasi arrownya)
+3. More responsive chat bot on mobile screen (Penggunaan Wrap serta dynamic calculation width untuk image-nya)

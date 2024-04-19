@@ -1,0 +1,51 @@
+April 2024 - Internship daily progress
+
+Name 		    : Immanuel Richie De Harjo Zakaria
+Position		: Front-End Developer (Flutter)
+Month 		  : April 2024
+Start Date	: 1 Apr 24
+End Date		: 30 Apr 24
+Total Week	: 5
+
+
+Week 1
+5 Apr 24
+1. Mencoba implementasi max card/tab content height nanti di wrap sama scroll
+
+
+Week 2
+8 Apr 24
+1. Membuat responsive rules menjadi lebih dynamic sehingga pake di section_parser lebih gampang
+2. Menambahkan 2 text field pada chat-bot option id dan jumlah sitasi
+3. Refactor chat-bot model karena structure json berubah
+
+9 Apr 24
+1. Membuat Konsep Responsive Width Wrap
+
+12 Apr 24
+1. Merapikan kodingan device responsive
+
+
+Week 3
+16 Apr 24
+1. Fix table edit button tidak bisa menerima/menghandle api_parameter. (handlernya itu nanti kalau ada api_redirect_route) yaudah buat query paramsnya
+
+17 Apr 24
+1. Tracing kenapa image di chat-bot kadang kadang tidak load (ketemunya masalah CORS).
+2. Membuat function handler untuk check semua image yang di kasih itu loadable atau
+3. Merapikan codingan device responsive lagi (semuanya sudah dinamis dan tambahin aturan aturan semuanya sudah beda file dengan section_parser)
+4. Implementasi konsep Responsive width wrap dengan konsep yang paling terbaru
+5. Fix table api params kalau pagination yang di klik ga sesuai
+
+18 Apr 24
+1. Implementasi konsep Responsive with scrollable widget, Jadi nanti ada rules jika widget itu bisa scrollable atau tidaknya sekrang cuma card height scrollable jika tinggi widgetnya dinamis dengan tinggi dimensi laptop
+2. Membuat modul baru help-desk untuk anak chat-bot
+3. Fix bug table api params kalau di pencarian tidak sesuai
+4. UX enhancement di modul chatbot di bagian text field
+
+19 Apr 24
+1. Fix bug pada SingleDropdown saat id ada tapi value null dan is required, dia selalu shouldError walupun data terisi
+2. Fix bug pada SingleDropdown lagi saat flag is_hidden true tapi tetap tampil
+3. Fix bug pada MultiCheckBox pada Card dia bakal throw error unbounded karena masalah key/informationnya tidak null tapi isinya kosong, solusi di MultiCheckBox dikasih kondisi jika tidak string kosong aja sedangkan kalau ada isi si MultiCheckBoxnya diwrap make FLexible di cardnya
+4. Fix bug pada table api parameter jika append type value data hasilnya ngaco. solusinya pake inital rows aja untuk ambil value
+5. Menemukan bug pada multicheckbox pada card, jika choices key ada dia bakal ga ke re-order kalau ada card yg checkboxnya di aktifkan
